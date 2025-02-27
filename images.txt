@@ -6,4 +6,3 @@ zabbix/zabbix-web-apache-pgsql
 zabbix/zabbix-web-nginx-mysql
 zabbix/zabbix-web-nginx-pgsql
 zabbix/zabbix-java-gateway
-zabbix/zabbix-proxy-mysql
