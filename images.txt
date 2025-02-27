@@ -1,4 +1,3 @@
-nginx
 zabbix/zabbix-web-nginx-mysql
 zabbix/zabbix-server-mysql
 zabbix/zabbix-agent
