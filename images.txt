@@ -1,3 +1,10 @@
 nginx
 zabbix/zabbix-web-nginx-mysql
 zabbix/zabbix-server-mysql
+zabbix/zabbix-agent
+zabbix/zabbix-web-apache-mysql
+zabbix/zabbix-web-apache-pgsql
+zabbix/zabbix-web-nginx-mysql
+zabbix/zabbix-web-nginx-pgsql
+zabbix/zabbix-java-gateway
+zabbix/zabbix-proxy-mysql
